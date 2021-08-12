@@ -1,5 +1,8 @@
 # resources-bookmarks-to-add
 
+[Palette Generator Tailwindcss](https://colorgen.dev)
+
+-----
 
 [Devcover.me](https://devcover.me)
 
