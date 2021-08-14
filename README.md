@@ -42,3 +42,13 @@
 [free-for.dev (https://free-for.dev/#/)
 
 [Free Web Development Resources](https://markodenic.com/free-web-development-resources/)
+
+------
+
+[Marksheet](https://marksheet.io) - A free HTML & CSS tutorial
+
+[HTML Reference](https://htmlreference.io) - A free guide to HTML. It features all elements and attributes.
+
+[CSS Reference](https://cssreference.io) - A free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
+
+-----
