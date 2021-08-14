@@ -38,3 +38,5 @@
 [FREE CODE TOOLS](https://freecodetools.org)
 
 -----
+
+[Free Web Development Resources](https://markodenic.com/free-web-development-resources/)
