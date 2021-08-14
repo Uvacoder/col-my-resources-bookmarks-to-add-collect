@@ -18,7 +18,7 @@
 
 [Codehouse Cheatsheeets](https://codehouse.vercel.app)
 
-[RapidAPI Hub - Discover and connect to thousands of APIs](https://rapidapi.com/hub)
+[RapidAPI Hub](https://rapidapi.com/hub) - Discover and connect to thousands of APIs
 
 -----
 
