@@ -1,5 +1,10 @@
 # resources-bookmarks-to-add
 
+
+[Tech blogs](https://tech-blogs.dev) - This is a list of Awesome Tech Blogs 
+
+-----
+
 [Palette Generator Tailwindcss](https://colorgen.dev)
 
 -----
