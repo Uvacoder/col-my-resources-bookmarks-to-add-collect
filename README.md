@@ -39,4 +39,6 @@
 
 -----
 
+[free-for.dev (https://free-for.dev/#/)
+
 [Free Web Development Resources](https://markodenic.com/free-web-development-resources/)
