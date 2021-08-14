@@ -18,6 +18,8 @@
 
 [Codehouse Cheatsheeets](https://codehouse.vercel.app)
 
+[RapidAPI Hub - Discover and connect to thousands of APIs](https://rapidapi.com/hub)
+
 -----
 
 [D3 Plugins](https://d3-discovery.net)
