@@ -53,6 +53,10 @@
 
 [Free Web Development Resources](https://markodenic.com/free-web-development-resources/)
 
+[Awesome Rasberry Pi](https://awesome-rpi.netlify.app)
+
+------
+
 ------
 
 [Marksheet](https://marksheet.io) - A free HTML & CSS tutorial
