@@ -7,6 +7,10 @@
 
 [Palette Generator Tailwindcss](https://colorgen.dev)
 
+[Tailwind Starter Kit](https://tailwind-starter-kit.vercel.app)
+
+-----
+
 -----
 
 [unDraw](https://undraw.co) - Open-source illustrations for any idea you can imagine and create
