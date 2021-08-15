@@ -41,6 +41,8 @@
 
 -----
 
+[Google fontpairs](https://www.fontpair.co)
+
 [Coding Fonts](https://coding-fonts.netlify.app)
 
 -----
