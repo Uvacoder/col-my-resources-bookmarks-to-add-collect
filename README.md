@@ -72,6 +72,8 @@
 
 ------
 
+[iosdevdirectory](https://iosdevdirectory.com) - The iOS Dev Directory is a comprehensive list of blogs & sites covering iOS development.
+
 ------
 
 [Marksheet](https://marksheet.io) - A free HTML & CSS tutorial
