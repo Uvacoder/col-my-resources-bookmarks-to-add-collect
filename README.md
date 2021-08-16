@@ -13,6 +13,8 @@
 
 -----
 
+[CSS Color Resources](https://cssgradient.io) - A great collection of css gradients, backgrounds, swatches and tools
+
 -----
 
 [unDraw](https://undraw.co) - Open-source illustrations for any idea you can imagine and create
