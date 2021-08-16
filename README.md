@@ -45,6 +45,8 @@
 
 [Coding Fonts](https://coding-fonts.netlify.app)
 
+[TheNounProject](https://thenounproject.com)
+
 -----
 
 [FREE CODE TOOLS](https://freecodetools.org)
