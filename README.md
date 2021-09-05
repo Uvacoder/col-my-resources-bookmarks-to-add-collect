@@ -64,7 +64,11 @@
 
 -----
 
-[free-for.dev (https://free-for.dev/#/)
+[Omatsuri](https://omatsuri.app) - Open source browser tools for everyday use
+
+-----
+
+[free-for.dev](https://free-for.dev/#/)
 
 [Free Web Development Resources](https://markodenic.com/free-web-development-resources/)
 
