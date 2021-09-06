@@ -60,6 +60,8 @@
 
 -----
 
+[FAVICON GENERATOR](https://favicon.io) - The only favicon generator you need for your next project. Quickly generate your favicon from text, image, or choose from hundreds of emojis.
+
 [FREE CODE TOOLS](https://freecodetools.org)
 
 -----
