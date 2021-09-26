@@ -97,6 +97,8 @@
 [Omatsuri](https://omatsuri.app) - Open source browser tools for everyday use
 
 -----
+[https://hiddentools.dev](https://hiddentools.dev)
+-----
 
 [free-for.dev](https://free-for.dev/#/)
 
