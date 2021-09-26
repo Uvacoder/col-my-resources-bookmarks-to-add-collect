@@ -99,6 +99,11 @@
 -----
 [https://hiddentools.dev](https://hiddentools.dev)
 -----
+[https://whatdevsneed.com](https://whatdevsneed.com)
+-----
+[https://tiny-helpers.dev](https://tiny-helpers.dev)
+-----
+
 
 [free-for.dev](https://free-for.dev/#/)
 
