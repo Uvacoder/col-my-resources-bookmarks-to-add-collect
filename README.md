@@ -124,7 +124,8 @@
 [iosdevdirectory](https://iosdevdirectory.com) - The iOS Dev Directory is a comprehensive list of blogs & sites covering iOS development.
 
 ------
-
+[https://devdocs.io](https://devdocs.io)
+----
 [Marksheet](https://marksheet.io) - A free HTML & CSS tutorial
 
 [HTML Reference](https://htmlreference.io) - A free guide to HTML. It features all elements and attributes.
