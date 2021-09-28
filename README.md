@@ -33,6 +33,8 @@
 [Tech blogs](https://tech-blogs.dev) - This is a list of Awesome Tech Blogs 
 
 -----
+[https://www.hyperui.dev](https://www.hyperui.dev)
+-----
 
 [Palette Generator Tailwindcss](https://colorgen.dev)
 
