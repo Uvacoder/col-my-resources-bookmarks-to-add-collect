@@ -161,3 +161,5 @@
 [https://htmldog.com](https://htmldog.com)
 
 ----
+
+[https://refined.blog](https://refined.blog)
