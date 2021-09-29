@@ -1,7 +1,8 @@
 # resources-bookmarks-to-add
 
 [https://pile-of-hrefs.com](https://pile-of-hrefs.com)
-
+-----
+[https://icones.js.org](https://icones.js.org)
 -----
 
 [https://vuetelescope.com/collections](https://vuetelescope.com/collections)
