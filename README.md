@@ -4,6 +4,8 @@
 -----
 [https://icones.js.org](https://icones.js.org)
 -----
+[https://vuelibs.org](https://vuelibs.org)
+----
 
 [https://vuetelescope.com/collections](https://vuetelescope.com/collections)
 
