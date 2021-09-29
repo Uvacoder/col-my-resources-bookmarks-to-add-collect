@@ -130,6 +130,8 @@
 [https://tooling.js.org](https://tooling.js.org)
 -----
 ------
+[https://chakra-templates.dev](https://chakra-templates.dev)
+--
 
 [iosdevdirectory](https://iosdevdirectory.com) - The iOS Dev Directory is a comprehensive list of blogs & sites covering iOS development.
 
