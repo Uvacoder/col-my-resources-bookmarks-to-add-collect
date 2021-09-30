@@ -43,6 +43,8 @@
 
 [Tech blogs](https://tech-blogs.dev) - This is a list of Awesome Tech Blogs 
 
+[https://blogscroll.com](https://blogscroll.com)
+
 -----
 [https://www.hyperui.dev](https://www.hyperui.dev)
 -----
