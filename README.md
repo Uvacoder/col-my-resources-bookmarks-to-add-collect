@@ -6,6 +6,8 @@
 
 ---
 
+[https://learn-anything.xyz](https://learn-anything.xyz)
+
 [https://www.codever.land](https://www.codever.land)
 
 ----
