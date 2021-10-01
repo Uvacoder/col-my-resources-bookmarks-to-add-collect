@@ -1,5 +1,10 @@
 # resources-bookmarks-to-add
 
+
+[https://blogscroll.com](https://blogscroll.com)
+
+----
+
 [https://kill-the-newsletter.com](https://kill-the-newsletter.com)
 
 [https://politepol.com/en/](https://politepol.com/en/)
