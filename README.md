@@ -145,6 +145,7 @@
 -----
 [https://tiny-helpers.dev](https://tiny-helpers.dev)
 -----
+[https://devresourc.es](https://devresourc.es)
 
 
 [free-for.dev](https://free-for.dev/#/)
