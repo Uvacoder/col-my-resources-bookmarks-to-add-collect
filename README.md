@@ -79,6 +79,8 @@
 
 [Windmill React UI](https://windmillui.com/react-ui)
 
+[https://wickedblocks.dev](https://wickedblocks.dev)
+
 -----
 
 [Hypercolor](https://hypercolor.dev) - A curated collection of beautiful premade gradients using default colors from the Tailwind CSS color palette
