@@ -116,6 +116,8 @@
 
 [Codehouse Cheatsheeets](https://codehouse.vercel.app)
 
+[https://kapeli.com/cheatsheets](https://kapeli.com/cheatsheets)
+
 [RapidAPI Hub](https://rapidapi.com/hub) - Discover and connect to thousands of APIs
 
 [OpenAPI.Tools](https://openapi.tools) - We want to keep API developers up to date with the best OpenAPI tooling around
