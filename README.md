@@ -43,6 +43,7 @@
 
 [https://coolors.co](https://coolors.co)
 
+[https://www.colorsandfonts.com](https://www.colorsandfonts.com)
 
 -----
 
