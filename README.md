@@ -91,6 +91,12 @@
 
 ---
 
+[https://presence.im](https://presence.im)
+
+[https://readme.so](https://readme.so)
+
+----
+
 [Picular](https://picular.co)
 
 -----
