@@ -185,7 +185,8 @@
 -----
 [https://devresourc.es](https://devresourc.es)
 
-
+[https://freestuff.dev](https://freestuff.dev)
+----
 [free-for.dev](https://free-for.dev/#/)
 
 [Free Web Development Resources](https://markodenic.com/free-web-development-resources/)
