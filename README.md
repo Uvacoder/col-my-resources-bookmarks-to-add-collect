@@ -11,6 +11,10 @@
 
 ---
 
+[https://squoosh.app](https://squoosh.app)
+
+---
+
 [https://learn-anything.xyz](https://learn-anything.xyz)
 
 [https://learnxinyminutes.com](https://learnxinyminutes.com)
