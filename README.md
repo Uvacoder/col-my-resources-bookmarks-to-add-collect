@@ -199,6 +199,7 @@
 -----
 [https://tooling.js.org](https://tooling.js.org)
 -----
+[http://styleguides.io](http://styleguides.io)
 ------
 [https://chakra-templates.dev](https://chakra-templates.dev)
 --
