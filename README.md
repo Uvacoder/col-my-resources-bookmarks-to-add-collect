@@ -15,6 +15,10 @@
 
 ---
 
+[https://realfavicongenerator.net](https://realfavicongenerator.net)
+
+----
+
 [https://cssstats.com](https://cssstats.com)
 
 ----
