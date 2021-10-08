@@ -42,6 +42,10 @@
 
 -----
 
+[https://arcticicestudio.github.io/styleguide-markdown/](https://arcticicestudio.github.io/styleguide-markdown/)
+
+-----
+
 [https://elisted.org](https://elisted.org)
 
 -----
