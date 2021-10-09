@@ -101,6 +101,8 @@
 
 [https://cloudinary.nuxtjs.org](https://cloudinary.nuxtjs.org)
 
+[https://cloudinary-build-url.netlify.app](https://cloudinary-build-url.netlify.app)
+
 ----
 
 [Hypercolor](https://hypercolor.dev) - A curated collection of beautiful premade gradients using default colors from the Tailwind CSS color palette
