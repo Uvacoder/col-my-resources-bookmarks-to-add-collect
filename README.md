@@ -99,6 +99,10 @@
 
 -----
 
+[https://cloudinary.nuxtjs.org](https://cloudinary.nuxtjs.org)
+
+----
+
 [Hypercolor](https://hypercolor.dev) - A curated collection of beautiful premade gradients using default colors from the Tailwind CSS color palette
 
 [CSS Color Resources](https://cssgradient.io) - A great collection of css gradients, backgrounds, swatches and tools
