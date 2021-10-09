@@ -234,6 +234,10 @@
 
 -----
 
+[https://adi518.github.io/JavaScript-snippets/#/](https://adi518.github.io/JavaScript-snippets/#/)
+
+----
+
 [https://www.learn-js.org](https://www.learn-js.org)
 
 [https://htmldog.com](https://htmldog.com)
