@@ -195,6 +195,10 @@
 [Omatsuri](https://omatsuri.app) - Open source browser tools for everyday use
 
 -----
+
+[https://markodenic.com/free-web-development-resources/](https://markodenic.com/free-web-development-resources/)
+
+
 [https://hiddentools.dev](https://hiddentools.dev)
 -----
 [https://whatdevsneed.com](https://whatdevsneed.com)
