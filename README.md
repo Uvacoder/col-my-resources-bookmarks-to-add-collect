@@ -164,6 +164,10 @@
 
 [TheNounProject](https://thenounproject.com)
 
+---
+
+[https://boxicons.com](https://boxicons.com)
+
 -----
 [https://icons8.com](https://icons8.com)
 -----
