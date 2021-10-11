@@ -164,6 +164,8 @@
 
 [TheNounProject](https://thenounproject.com)
 
+[https://rsms.me/inter/](https://rsms.me/inter/)
+
 ---
 
 [https://react-icons.github.io/react-icons](https://react-icons.github.io/react-icons)
