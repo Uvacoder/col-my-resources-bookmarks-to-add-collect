@@ -13,6 +13,8 @@
 
 [https://squoosh.app](https://squoosh.app)
 
+[https://www.svgwaves.io](https://www.svgwaves.io)
+
 ---
 
 [https://realfavicongenerator.net](https://realfavicongenerator.net)
