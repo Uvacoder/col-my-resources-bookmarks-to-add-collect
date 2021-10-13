@@ -101,6 +101,12 @@
 
 -----
 
+[https://sveltesociety.dev](https://sveltesociety.dev)
+
+[https://sveltethemes.dev](https://sveltethemes.dev)
+
+---
+
 [https://cloudinary.nuxtjs.org](https://cloudinary.nuxtjs.org)
 
 [https://cloudinary-build-url.netlify.app](https://cloudinary-build-url.netlify.app)
