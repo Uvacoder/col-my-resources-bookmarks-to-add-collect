@@ -214,6 +214,9 @@
 -----
 [https://webgems.io](https://webgems.io)
 -----
+
+[https://awesomejs.dev](https://awesomejs.dev)
+
 -----
 
 [Omatsuri](https://omatsuri.app) - Open source browser tools for everyday use
